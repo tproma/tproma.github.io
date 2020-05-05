@@ -7,7 +7,7 @@
 /* --- General --- */
 body {
 	font-family:'Montserrat',sans-serif;
-	font-size:16px;
+	font-size:18px;
 	line-height:1.7;
 	color:#777;
 	font-weight:400;
@@ -89,7 +89,7 @@ img {max-width: 100%;}
 	color:#92DD03;
 	border:none;
 	font-family:'Open Sans',sans-serif;
-	font-size:14px;
+	font-size:20px;
 	font-weight:600;
 	text-transform:uppercase;
 }
@@ -186,7 +186,7 @@ header {
 .heading h2 {
 	font-weight:700;
 	font-family:'Playball',cursive;
-	font-size:35px;
+	font-size:40px;
 	color:#333;
 	margin:0;
 	padding:5px;
@@ -373,7 +373,7 @@ img#site-title {
 }
 .skills h3.main {
 	margin:0 0 20px 0;
-	font-size:19px;
+	font-size:24px;
 	padding-bottom:10px;
 	color:#92DD03 ;
 	border-bottom: 4px double #eee;
@@ -845,6 +845,10 @@ textarea.contact {
 }
 .credits {
     text-align: center;
+}
+.Publication {
+	
+	text-align:left
 }
 
 blockquote {
