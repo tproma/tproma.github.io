@@ -89,7 +89,7 @@ img {max-width: 100%;}
 	color:#92DD03;
 	border:none;
 	font-family:'Open Sans',sans-serif;
-	font-size:20px;
+	font-size:16px;
 	font-weight:600;
 	text-transform:uppercase;
 }
@@ -373,7 +373,7 @@ img#site-title {
 }
 .skills h3.main {
 	margin:0 0 20px 0;
-	font-size:24px;
+	font-size:19px;
 	padding-bottom:10px;
 	color:#92DD03 ;
 	border-bottom: 4px double #eee;
